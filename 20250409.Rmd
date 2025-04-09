@@ -1,10 +1,7 @@
 ---
-title: "ゼミ20250409"
+title: "ゼミ2025.4.9"
 author: "Yi Zhou"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    df_print: paged
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -20,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - JP: https://bookdown.org/content/25561078-f6d8-4a13-b4bd-45ebbc1b05c8/
 
-Read until "Rの発見"
+Read the contents before "4 効果量のプール"
 
 ## 2. Manuals of installing R and R studio
 
@@ -39,17 +36,19 @@ https://data-viz-lab.com/rlanguage-install#1RR
 
 https://kazutan.github.io/kazutanR/Rmd_intro.html
 
-# Homework
+# 課題
 
-1. Read 
+1. Read the contents 1-3 in "[Meta-analysis book](https://bookdown.org/content/25561078-f6d8-4a13-b4bd-45ebbc1b05c8/)"
 
 2. Setting R and Rstudio. 
 
-3. Try the codes in pages 5-16 in book "Meta-Analysis with R.pdf", and save the codes as "20250409.R".
+3. Try the codes in pages 5-16 in the PDF book "Meta-Analysis with R.pdf", and save the codes as "20250409.R".
 
-4. Try R markdown and save the results of 2. into "20250409.html".
-
-5.	  
+4. Try R markdown and save the results of "3." as "20250409.html".
 
 -----
-# Nex time 15.10
+# 2025.4.16
+
+1. Discuss the problems and homework results in R.
+
+2. Discuss any questions about the understanding of effect size (効果量)
