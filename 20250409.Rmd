@@ -1,0 +1,55 @@
+---
+title: "ゼミ20250409"
+author: "Yi Zhou"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# 準備 
+
+## 1. Meta-analysis book
+
+- EN: https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/
+
+
+- JP: https://bookdown.org/content/25561078-f6d8-4a13-b4bd-45ebbc1b05c8/
+
+Read until "Rの発見"
+
+## 2. Manuals of installing R and R studio
+
+https://syunsuke.github.io/r_install_guide_for_beginners/05_installation_of_packages.html
+
+
+https://data-viz-lab.com/rlanguage-install#1RR
+
+## 3. R basic coding
+	
+- Practice codes in pages 5-16 of book "Meta-Analysis with R.pdf"
+	
+- Ask Google or chartGPT.
+
+## 4. R markdown
+
+https://kazutan.github.io/kazutanR/Rmd_intro.html
+
+# Homework
+
+1. Read 
+
+2. Setting R and Rstudio. 
+
+3. Try the codes in pages 5-16 in book "Meta-Analysis with R.pdf", and save the codes as "20250409.R".
+
+4. Try R markdown and save the results of 2. into "20250409.html".
+
+5.	  
+
+-----
+# Nex time 15.10
